@@ -17,6 +17,10 @@ namespace RX.Gateway.WebAPI.Controllers
         [Route("MakeTransaction")]
         public TransactionResponse Process(TransactionRequest transactionRequest)
         {
+            #region AntiFraud ClearSale
+
+            #endregion
+
             TransactionResponse transactionResponse = new TransactionResponse(null, Model.API.EStatusResponse.Success, "");
             return transactionResponse;
         }

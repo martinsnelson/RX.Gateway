@@ -7,7 +7,6 @@
   <ItemGroup>
     <Folder Include="Lib\" />
     <Folder Include="Request\Acquirer\Stone\" />
-    <Folder Include="Response\AntiFraud\ClearSale\" />
   </ItemGroup>
 
 </Project>
