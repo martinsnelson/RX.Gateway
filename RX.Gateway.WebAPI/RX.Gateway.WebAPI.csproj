@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RX.Gateway.Model.API\RX.Gateway.Model.API.csproj" />
+    <ProjectReference Include="..\RX.Gateway.ServiceAgent.AntiFraud\RX.Gateway.ServiceAgent.AntiFraud.csproj" />
   </ItemGroup>
 
 </Project>
