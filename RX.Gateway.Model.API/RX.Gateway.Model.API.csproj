@@ -6,7 +6,9 @@
 
   <ItemGroup>
     <Folder Include="Lib\" />
+    <Folder Include="Request\Acquirer\Cielo\" />
     <Folder Include="Request\Acquirer\Stone\" />
+    <Folder Include="Response\Acquirer\Cielo\" />
   </ItemGroup>
 
 </Project>

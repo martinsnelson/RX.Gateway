@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RX.Gateway.Model.API", "RX.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RX.Gateway.ServiceAgent.AntiFraud", "RX.Gateway.ServiceAgent.AntiFraud\RX.Gateway.ServiceAgent.AntiFraud.csproj", "{28444372-CEF4-4A4E-9D00-95C798DC8E48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RX.Gateway.ServiceAgent.Acquirier", "RX.Gateway.ServiceAgent.Acquirier\RX.Gateway.ServiceAgent.Acquirier.csproj", "{974F1F09-FB79-45A5-AD56-D43B65A0C930}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{28444372-CEF4-4A4E-9D00-95C798DC8E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28444372-CEF4-4A4E-9D00-95C798DC8E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28444372-CEF4-4A4E-9D00-95C798DC8E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974F1F09-FB79-45A5-AD56-D43B65A0C930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974F1F09-FB79-45A5-AD56-D43B65A0C930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974F1F09-FB79-45A5-AD56-D43B65A0C930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974F1F09-FB79-45A5-AD56-D43B65A0C930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
